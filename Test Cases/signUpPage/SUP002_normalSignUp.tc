@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SUP002_normalSignUp</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e6d587e1-baec-4542-8331-b65b45fd7f8b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4ea3e183-f003-4a40-b5db-3b4b1ee86999</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4ea3e183-f003-4a40-b5db-3b4b1ee86999</id>
+      <masked>false</masked>
+      <name>alertMessage</name>
+   </variable>
+</TestCaseEntity>

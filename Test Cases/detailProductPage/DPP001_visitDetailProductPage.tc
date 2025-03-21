@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DPP001_visitDetailProductPage</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9cd94e75-7f62-491b-b3b5-95456c356b00</testCaseGuid>
+</TestCaseEntity>

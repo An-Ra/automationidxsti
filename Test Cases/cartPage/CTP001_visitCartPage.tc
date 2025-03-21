@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CTP001_visitCartPage</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>642dfbac-30c1-4519-ac1f-b61de9bbc528</testCaseGuid>
+</TestCaseEntity>

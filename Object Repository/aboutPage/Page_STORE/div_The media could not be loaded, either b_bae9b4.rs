@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_The media could not be loaded, either b_bae9b4</name>
+   <tag></tag>
+   <elementGuidId>701dadeb-fe7f-4c80-91c1-7160f297e45d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.vjs-modal-dialog-content</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='example-video']/div[5]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;The media could not be loaded, either because the server or network failed or be&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4975bd6d-5f5b-48ad-a396-b80ab0a99c45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vjs-modal-dialog-content</value>
+      <webElementGuid>c7a6a099-75a8-4864-a215-c3a3adf7479b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>document</value>
+      <webElementGuid>744dc802-c97c-4839-b9bc-15086948d406</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>The media could not be loaded, either because the server or network failed or because the format is not supported.</value>
+      <webElementGuid>7f4670a1-dd65-45c5-a1e5-18f51e7cb4de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;example-video&quot;)/div[@class=&quot;vjs-error-display vjs-modal-dialog&quot;]/div[@class=&quot;vjs-modal-dialog-content&quot;]</value>
+      <webElementGuid>8acf9fd2-7098-4e45-a2ff-a4ec14a1aa3f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='example-video']/div[5]/div</value>
+      <webElementGuid>55c4bb65-1b0d-4396-ad40-d5e3f2a09682</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fullscreen'])[1]/following::div[2]</value>
+      <webElementGuid>42747614-16cf-40a8-b2ca-82c2c801aea7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Picture-in-Picture'])[1]/following::div[2]</value>
+      <webElementGuid>307d9b0a-2429-44d4-920a-bcd585abee81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Text'])[1]/preceding::div[1]</value>
+      <webElementGuid>ee1fbcdd-9820-4581-ac05-d6b5fda9f10e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Color'])[1]/preceding::div[1]</value>
+      <webElementGuid>47703a24-67a0-4551-87a8-35ec95944b93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='The media could not be loaded, either because the server or network failed or because the format is not supported.']/parent::*</value>
+      <webElementGuid>c378e60e-ea3d-4188-8d9b-7405a79fbafd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[5]/div</value>
+      <webElementGuid>7e7ee669-0f7d-4264-bafc-895e24f09bfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'The media could not be loaded, either because the server or network failed or because the format is not supported.' or . = 'The media could not be loaded, either because the server or network failed or because the format is not supported.')]</value>
+      <webElementGuid>cbee6131-7023-469b-b28c-55bff10d5568</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

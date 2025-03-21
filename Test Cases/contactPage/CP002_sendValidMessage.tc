@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CP002_sendValidMessage</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>85764198-02b4-49ed-9116-0ed04a682b0b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e1a6570a-7af5-4900-8b33-77fe4efcc0df</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e1a6570a-7af5-4900-8b33-77fe4efcc0df</id>
+      <masked>false</masked>
+      <name>alertMessage</name>
+   </variable>
+</TestCaseEntity>

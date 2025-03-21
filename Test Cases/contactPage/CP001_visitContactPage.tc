@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CP001_visitContactPage</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>42b905ba-c9a3-4ceb-99ad-f03dd211d033</testCaseGuid>
+</TestCaseEntity>

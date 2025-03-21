@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CTP002_verifyPlaceOrderPopup</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e785bfba-56fe-4867-97c9-b159a2f69671</testCaseGuid>
+</TestCaseEntity>
